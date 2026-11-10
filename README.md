@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**caiohenriq55/caiohenriq55** is a ✨ _special_ ✨ repositor
 # Olá! Eu sou Caio Henrique 👋
 
 🎓 Estudante de Engenharia de Software na Universidade Cidade de São Paulo (UNICID).
